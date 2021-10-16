@@ -1,0 +1,121 @@
+.halfwidth{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    margin-top: 3%;
+}
+
+.halfwidth img{
+    width: 125%;
+    margin-top: -40%;
+    height: 780px;
+   
+}
+
+.firstsection{
+    height: 500px;
+    background-image: url("images/header-bg.png");
+}
+
+.halfwidth a{
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(45deg,orange,pink);
+    border-radius: 5px;
+    padding: 10px;
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+
+.halfwidth h1{
+    color: brown;
+
+}
+
+.halfwidth p{
+    font-size: 20px;
+}
+
+.secondsection{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+.secondimg{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    
+}
+
+.secondimg img{
+    width: 100%;
+    
+}
+
+.secondh{
+    margin-top: 10%;
+}
+
+.secondh p{
+    font-size: 20px;
+}
+
+button{
+  background-image: linear-gradient(45deg, orange, pink);
+  border-radius: 5px;
+  border-style: none;
+  padding:10px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.lasth h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.lastsection{
+    height: 400px;
+}
+.lastimg{
+    width:461px;
+   
+    margin-left: 40px;
+    float: left;
+}
+
+.lastimg img{
+    width:100%;
+}
+
+.contacth h1{
+    text-align: center;
+    margin: 100px;
+}
+
+.contact{
+    margin-top: 40px;
+   background-image: url("images/footer-bg.png");
+   height: 700px;
+}
+
+.contact p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.lastpart a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 650px;
+    background-color: brown;
+    padding: 15px;
+    border-radius: 10px;
+    color: cornsilk;
+    font-size: 30px;
+}
